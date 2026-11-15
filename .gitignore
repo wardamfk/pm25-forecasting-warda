@@ -1,0 +1,18 @@
+
+# Dataset files
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
